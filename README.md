@@ -1,7 +1,7 @@
 Overview
 --------
 
-This Python script is designed to simplify large numbers, percentages, and monetary values in text while preserving contextual meanings and improving readability ( In German Lanague ). It uses regular expressions to process input text and provides helpful contextual explanations for numbers, percentages, and monetary values. The main purpose of this tool is to make complex numerical data more understandable to a wider audience, such as when presenting technical reports or educational content.
+This Python script is designed to simplify large numbers, percentages, and monetary values in text while preserving contextual meanings and improving readability ( In German language ). It uses regular expressions to process input text and provides helpful contextual explanations for numbers, percentages, and monetary values. The main purpose of this tool is to make complex numerical data more understandable to a wider audience, such as when presenting technical reports or educational content.
 
 Features
 --------
