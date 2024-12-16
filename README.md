@@ -18,7 +18,9 @@ Installation:
 To use this script, simply clone the repository or download the Python file. The script does not have external dependencies, so you can run it in any Python environment.
 ---------------------------------------------------------------------------------------------------------------------
 git clone https://github.com/HananAlHujaily/number-simplifier.git
+
 cd number-simplifier
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 Alternatively, if you just want to use the script in your project, copy the content of simplify_numbers.py into your project directory.
